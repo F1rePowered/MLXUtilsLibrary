@@ -6,6 +6,7 @@ Utilities for easing the development of machine learning inference libraries and
 
 - iOS 18.0+
 - macOS 15.0+
+- visionOS 2.0+
 
 ## Installation
 
